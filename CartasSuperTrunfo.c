@@ -12,7 +12,7 @@ int main() {
 
    // entrada de dados primeira carta
 
-   (int)printf("===== CARTA 1 ===== \n");
+   printf("===== CARTA 1 ===== \n");
 
    printf("Informe a letra do primeiro estado (De 'A' a 'H'): \n");
    scanf(" %c", &estado1);
